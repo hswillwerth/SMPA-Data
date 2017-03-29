@@ -1,0 +1,77 @@
+Category,Rank,College  ,Volunteers 
+Large,1,University of Wisconsinâ€“Madison,87
+Large,2,University of Washington,73
+Large,3,University of Minnesota,70
+Large,4,University of Michigan,60
+Large,5,University of Florida,58
+Large,6,Colorado State University,54
+Large,7,University of North Carolina at Chapel Hill,51
+Large,8,The Pennsylvania State University,50
+Large,9,The Ohio State University,49
+Large,10,Michigan State University,48
+Large,11,University of Colorado Boulder,47
+Large,11,University of Oregon,47
+Large,13,"University of California, Los Angeles",43
+Medium,1,American University,54
+Medium,2,Western Washington University,48
+Medium,3,The George Washington University,45
+Medium,4,The College of William & Mary,36
+Medium,5,Humboldt State University,33
+Medium,6,Georgetown University,31
+Medium,7,University of Montana,30
+Medium,8,University of Vermont,29
+Medium,8,Emory University,29
+Medium,10,Tulane University,26
+Medium,11,Cornell University,24
+Medium,12,College of Charleston,20
+Medium,13,Boston College,19
+Small,1,Denison University,16
+Small,2,University of Mary Washington,13
+Small,2,University of Puget Sound,13
+Small,4,St. Mary's College of Maryl and,12
+Small,4,Whitworth University,12
+Small,4,Hobart and William Smith Colleges,12
+Small,7,Colorado College,11
+Small,7,Smith College,11
+Small,7,Spelman College,11
+Small,7,St. Lawrence University,11
+Small,7,The Evergreen State College,11
+Small,7,Oberlin College,11
+Small,13,Carleton College,10
+Small,13,Simmons College,10
+Small,13,Bowdoin College,10
+Small,13,Connecticut College,10
+Small,13,Kalamazoo College,10
+Small,13,Eckerd College,10
+Small,13,SUNY College of Environmental Science and Forestry,10
+Small,13,Wellesley College,10
+Small,13,Grinnell College,10
+Small,22,Hamilton College,9
+Small,22,Loyola University New Orleans,9
+Small,22,Whitman College,9
+Small,22,College of Wooster,9
+Small,22,Rice University,9
+Medium,14,Loyola University Chicago,18
+Medium,14,SUNY Geneseo,18
+Medium,14,Howard University,18
+Medium,14,University of Hawai'i at MÄÅnoa,18
+Medium,14,University of San Diego,18
+Medium,14,University of Wisconsin-Stevens Point,18
+Medium,20,Fordham University,17
+Medium,21,Montana State University,15
+Medium,21,University of Rhode Island,15
+Medium,21,Northwestern University,15
+Medium,21,Tufts University,15
+Medium,21,University of New Hampshire,15
+Large,13,Arizona State University,43
+Large,15,"University of Maryland, C ollege Park",42
+Large,15,University of Virginia,42
+Large,17,James Madison University,41
+Large,18,"University of California, Santa Barbara",40
+Large,18,University of South Florida,40
+Large,20,"University of California, Davis",39
+Large,21,North Carolina State Universi ty,37
+Large,21,Indiana University Bloom ington,37
+Large,21,University of Illinois at Urb ana-Champaign,37
+Large,21,University of Massachusetts Amherst,37
+Large,25,University of Texas at Aus tin,36
